@@ -23,6 +23,9 @@ In this repository work the skills as development and use of functions such as a
 |Algorithms|
 |CRUD|
 
+## Languages
+- Pseint
+  
 ## Use
 For this use repository required dowload pseint reader and from pseint open the folder that containt files.
 
